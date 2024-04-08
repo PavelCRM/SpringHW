@@ -1,0 +1,30 @@
+февр. 27, 2024 10:01:28 PM ru.ergakov.gb.actslog.aspects.MyLoggingAspect log
+INFO: Информация логирования: 
+февр. 27, 2024 10:01:28 PM ru.ergakov.gb.actslog.aspects.MyLoggingAspect log
+INFO: Пользователь: admin
+февр. 27, 2024 10:01:28 PM ru.ergakov.gb.actslog.aspects.MyLoggingAspect log
+INFO: Вызванный метод: findAll
+февр. 27, 2024 10:01:28 PM ru.ergakov.gb.actslog.aspects.MyLoggingAspect log
+INFO: Класс: class ru.ergakov.gb.actslog.service.ActService
+февр. 27, 2024 10:01:28 PM ru.ergakov.gb.actslog.aspects.MyLoggingAspect log
+INFO: Аргументы: []
+февр. 27, 2024 10:01:28 PM ru.ergakov.gb.actslog.aspects.MyLoggingAspect log
+INFO: Метод отработал и вернул значение: []
+февр. 27, 2024 10:01:28 PM ru.ergakov.gb.actslog.aspects.MyLoggingAspect log
+INFO: Конец блока логирования. 
+
+февр. 27, 2024 10:01:33 PM ru.ergakov.gb.actslog.aspects.MyLoggingAspect log
+INFO: Информация логирования: 
+февр. 27, 2024 10:01:33 PM ru.ergakov.gb.actslog.aspects.MyLoggingAspect log
+INFO: Пользователь: не авторизован
+февр. 27, 2024 10:01:33 PM ru.ergakov.gb.actslog.aspects.MyLoggingAspect log
+INFO: Вызванный метод: findAll
+февр. 27, 2024 10:01:33 PM ru.ergakov.gb.actslog.aspects.MyLoggingAspect log
+INFO: Класс: class ru.ergakov.gb.actslog.service.ActService
+февр. 27, 2024 10:01:33 PM ru.ergakov.gb.actslog.aspects.MyLoggingAspect log
+INFO: Аргументы: []
+февр. 27, 2024 10:01:33 PM ru.ergakov.gb.actslog.aspects.MyLoggingAspect log
+INFO: Метод отработал и вернул значение: []
+февр. 27, 2024 10:01:33 PM ru.ergakov.gb.actslog.aspects.MyLoggingAspect log
+INFO: Конец блока логирования. 
+
